@@ -1,0 +1,10 @@
+print("hehe")
+print(2 * 2)
+print(2 * 2, 2 * 3, 2 * 4, "Pitons")
+print(f"Ja saskatīsim 5 ar 7, iegūsim {5+7}.")
+print("he "+"he")#komentārs
+print("Pāvels " * 7)
+print("Pāvels")
+print("Pāvels")
+print("Pāvels")
+print("Pāvels")
